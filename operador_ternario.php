@@ -46,4 +46,3 @@ $y = 10;
 echo "x = $x, y = $y<br>";
 echo "El mayor valor es: " . (($x > $y) ? $x : $y) . "<br>";
 ?>
-    
